@@ -1,6 +1,5 @@
 #!/bin/bash
 OUT=snappy-packageloss.txt
-TIME=/usr/bin/time
 cat /dev/null > $OUT
 
 function measure() {
@@ -9,8 +8,8 @@ function measure() {
 
   for i in {1..5}
   do
-    ($TIME -f "%e" snappy install webdm) 2>> $OUT
-    sudo snappy remove webdm
+    (time snappy install xkcd-webserver) 2>> $OUT
+    sudo snappy remove xkcd-webserver
 
     sleep 5
   done

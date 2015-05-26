@@ -1,0 +1,249 @@
+0 package loss
+
+real	0m11.473s
+user	0m0.608s
+sys	0m0.128s
+
+real	0m11.272s
+user	0m0.492s
+sys	0m0.124s
+
+real	0m6.276s
+user	0m0.524s
+sys	0m0.120s
+
+real	0m11.240s
+user	0m0.488s
+sys	0m0.132s
+
+real	0m11.266s
+user	0m0.532s
+sys	0m0.080s
+5 package loss
+
+real	0m11.237s
+user	0m0.512s
+sys	0m0.100s
+
+real	0m11.208s
+user	0m0.480s
+sys	0m0.124s
+
+real	0m11.315s
+user	0m0.520s
+sys	0m0.084s
+
+real	0m12.497s
+user	0m0.504s
+sys	0m0.132s
+
+real	0m11.300s
+user	0m0.584s
+sys	0m0.124s
+10 package loss
+
+real	0m12.293s
+user	0m0.512s
+sys	0m0.096s
+
+real	0m7.291s
+user	0m0.524s
+sys	0m0.072s
+
+real	0m16.276s
+user	0m0.488s
+sys	0m0.112s
+
+real	0m11.234s
+user	0m0.480s
+sys	0m0.096s
+
+real	0m6.952s
+user	0m0.516s
+sys	0m0.108s
+15 package loss
+xkcd-webserver failed to install: snappy package not found
+
+real	0m25.061s
+user	0m0.012s
+sys	0m0.016s
+
+real	0m13.818s
+user	0m0.496s
+sys	0m0.080s
+
+real	0m11.259s
+user	0m0.492s
+sys	0m0.104s
+xkcd-webserver failed to install: Get https://public.apps.ubuntu.com/anon/download/canonical/xkcd-webserver.canonical/xkcd-webserver.canonical_0.5_all.snap: dial tcp: lookup public.apps.ubuntu.com: Temporary failure in name resolution
+
+real	0m20.799s
+user	0m0.048s
+sys	0m0.052s
+
+real	0m7.865s
+user	0m0.468s
+sys	0m0.132s
+20 package loss
+
+real	0m24.564s
+user	0m0.516s
+sys	0m0.096s
+
+real	0m18.358s
+user	0m0.516s
+sys	0m0.092s
+
+real	0m26.341s
+user	0m0.488s
+sys	0m0.100s
+
+real	0m19.577s
+user	0m0.496s
+sys	0m0.116s
+
+real	0m24.033s
+user	0m0.684s
+sys	0m0.132s
+25 package loss
+xkcd-webserver failed to install: snappy package not found
+
+real	0m20.070s
+user	0m0.016s
+sys	0m0.020s
+xkcd-webserver failed to install: snappy package not found
+
+real	0m15.071s
+user	0m0.020s
+sys	0m0.020s
+
+real	0m13.681s
+user	0m0.532s
+sys	0m0.104s
+
+real	0m35.749s
+user	0m0.792s
+sys	0m0.124s
+
+real	0m16.503s
+user	0m0.480s
+sys	0m0.144s
+30 package loss
+
+real	0m17.568s
+user	0m0.520s
+sys	0m0.116s
+xkcd-webserver failed to install: Get https://public.apps.ubuntu.com/anon/download/canonical/xkcd-webserver.canonical/xkcd-webserver.canonical_0.5_all.snap: dial tcp: lookup public.apps.ubuntu.com: Temporary failure in name resolution
+
+real	0m42.626s
+user	0m0.056s
+sys	0m0.044s
+xkcd-webserver failed to install: Get https://public.apps.ubuntu.com/anon/download/canonical/xkcd-webserver.canonical/xkcd-webserver.canonical_0.5_all.snap: dial tcp: lookup public.apps.ubuntu.com: Temporary failure in name resolution
+
+real	0m22.877s
+user	0m0.076s
+sys	0m0.020s
+xkcd-webserver failed to install: Get https://public.apps.ubuntu.com/anon/download/canonical/xkcd-webserver.canonical/xkcd-webserver.canonical_0.5_all.snap: dial tcp: lookup public.apps.ubuntu.com: Temporary failure in name resolution
+
+real	0m31.935s
+user	0m0.056s
+sys	0m0.040s
+
+real	0m13.903s
+user	0m0.520s
+sys	0m0.104s
+35 package loss
+
+real	0m15.593s
+user	0m0.552s
+sys	0m0.068s
+
+real	0m32.137s
+user	0m0.536s
+sys	0m0.104s
+xkcd-webserver failed to install: Get https://public.apps.ubuntu.com/anon/download/canonical/xkcd-webserver.canonical/xkcd-webserver.canonical_0.5_all.snap: dial tcp: lookup public.apps.ubuntu.com: Temporary failure in name resolution
+
+real	0m22.127s
+user	0m0.072s
+sys	0m0.040s
+
+real	0m22.101s
+user	0m0.456s
+sys	0m0.136s
+
+real	0m35.161s
+user	0m0.504s
+sys	0m0.100s
+40 package loss
+xkcd-webserver failed to install: snappy package not found
+
+real	0m30.035s
+user	0m0.016s
+sys	0m0.020s
+xkcd-webserver failed to install: snappy package not found
+
+real	0m26.442s
+user	0m0.076s
+sys	0m0.008s
+
+real	0m33.447s
+user	0m0.540s
+sys	0m0.088s
+xkcd-webserver failed to install: Get https://public.apps.ubuntu.com/anon/download/canonical/xkcd-webserver.canonical/xkcd-webserver.canonical_0.5_all.snap: dial tcp: lookup public.apps.ubuntu.com: Temporary failure in name resolution
+
+real	0m31.169s
+user	0m0.060s
+sys	0m0.048s
+
+real	0m29.633s
+user	0m0.512s
+sys	0m0.096s
+45 package loss
+
+real	0m16.672s
+user	0m0.520s
+sys	0m0.084s
+xkcd-webserver failed to install: snappy package not found
+
+real	0m25.071s
+user	0m0.024s
+sys	0m0.012s
+xkcd-webserver failed to install: snappy package not found
+
+real	0m25.072s
+user	0m0.024s
+sys	0m0.004s
+
+real	0m8.033s
+user	0m0.488s
+sys	0m0.128s
+
+real	0m28.000s
+user	0m0.504s
+sys	0m0.104s
+50 package loss
+xkcd-webserver failed to install: snappy package not found
+
+real	0m35.165s
+user	0m0.008s
+sys	0m0.020s
+xkcd-webserver failed to install: snappy package not found
+
+real	0m20.075s
+user	0m0.028s
+sys	0m0.008s
+xkcd-webserver failed to install: snappy package not found
+
+real	0m25.065s
+user	0m0.012s
+sys	0m0.024s
+xkcd-webserver failed to install: snappy package not found
+
+real	0m15.061s
+user	0m0.016s
+sys	0m0.012s
+xkcd-webserver failed to install: snappy package not found
+
+real	0m25.068s
+user	0m0.032s
+sys	0m0.004s
